@@ -1,11 +1,17 @@
-# rest-api-test
-Test rest api for tesing purpose for frontend developers with endpoints
+# rest-api-test :rocket:
+ rest api for tesing purpose for frontend developers with endpoints
 
-## clone the repo 
+> Its an Open Source API you can contribute and get featured on this repo, have a look into issues and feel free to create issues, PR, and ask questions :sparkles:
 
-'git clone https://github.com/mohitrakhade20/rest-api-test'
+___
 
-## To access the API
+## Getting Started :candy:
+
+### Clone the repo 
+
+`git clone https://github.com/mohitrakhade20/rest-api-test `
+
+### To access the API :rocket:
 
 1. `sudo npm install -g json-server`
 
@@ -35,3 +41,15 @@ Test rest api for tesing purpose for frontend developers with endpoints
 ```
 
 ![two](https://raw.githubusercontent.com/mohitrakhade20/rest-api-test/main/Images/2.jpeg)
+
+
+Contributors of this project :heart:
+
+| Name        | github           | commits  |
+| ------------- |:-------------:| -----:|
+| Mohit Rakhade :penguin:    | mohitrakhade20 | all |
+| you      | black      |   0 |
+| him/her | white      |    0 |
+
+
+Thank You :heart:
